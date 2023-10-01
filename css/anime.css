@@ -239,7 +239,7 @@ body {
 	grid-template-columns: 1fr;
 	}
 	#logo {
-		visibility: 15vw;
+		visibility: hidden;
 	}
 	.content-box {
 		overflow: scroll;
