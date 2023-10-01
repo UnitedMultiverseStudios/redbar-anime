@@ -228,7 +228,7 @@ body {
 	grid-template-columns: 1.5fr 1fr;
 	padding: 10px;
 	}
-	img {
+	#logo {
 		width: 18vw;
 		height: 18vw;
 	}
@@ -238,15 +238,20 @@ body {
 	.container {
 	grid-template-columns: 1fr;
 	}
-	img {
-		width: 15vw;
-		height: 15vw;
+	#logo {
+		visibility: 15vw;
 	}
 	.content-box {
 		overflow: scroll;
 		display: flex;
-		width: 100vw;
+		width: 90vw;
 	}
+	.menu-bar {
+	background: #0B1D36;
+	text-align: center;
+	width: 100vw;
+	
+        }
 }
 
 /* content div's down */
