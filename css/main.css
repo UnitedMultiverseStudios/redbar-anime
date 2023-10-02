@@ -1,0 +1,18 @@
+body {
+	background:#112936;
+	align-items: center;
+	justify-content: space-between; 
+	color: white;
+	font-family: tahoma;
+	padding: 5vw;
+}
+span {
+	background: linear-gradient(110deg, orange 40%, gold);
+	color: white;
+	padding: 8px;
+	margin: 5px;
+	border-radius: 5px;
+}
+a {
+	text-decoration: none;
+}
