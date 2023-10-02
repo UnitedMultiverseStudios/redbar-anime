@@ -248,7 +248,7 @@ body {
 		width: 100vw;
 	}
 }
-@media (max-width: 1080px) {
+@media (max-width: 990px) {
 
 	content-box {
 		overflow: scroll;
