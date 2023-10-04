@@ -14,16 +14,16 @@ body {
 }
 /* menu bar */
 .menu-bar ul li .ri-menu-line {
-	visibility: show;
+	visibility: visible;
 }
 .menu-bar ul lu .ri-menu-line:hover {
-	visibility: hide;
+	visibility: hidden;
 }
 .menu-bar ul li ri-close-line {
-	visibility: hide;
+	visibility: hidden;
 }
 .menu-bar ul lu ri-close-line:hover {
-	visibility: show;
+	visibility: visible;
 }
 .h1 {
 	width: 40vw;
