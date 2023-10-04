@@ -54,6 +54,8 @@ body {
 	display: inline-flex;
 	list-style: none;
 	color: #fff;
+	text-align: right;
+	
 }
 .menu-bar ul li {
 	width; 120px;
