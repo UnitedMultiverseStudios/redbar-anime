@@ -17,10 +17,10 @@ body {
 	visibility: show;
 }
 .menu-bar ul lu .ri-menu-line:hover {
-	visibility: hidden;
+	visibility: hide;
 }
 .menu-bar ul li ri-close-line {
-	visibility: hidden;
+	visibility: hide;
 }
 .menu-bar ul lu ri-close-line:hover {
 	visibility: show;
