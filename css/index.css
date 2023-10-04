@@ -13,7 +13,18 @@ body {
 	
 }
 /* menu bar */
-
+.menu-bar ul li .ri-menu-line {
+	visibility: show;
+}
+.menu-bar ul lu .ri-menu-line:hover {
+	visibility: hidden;
+}
+.menu-bar ul li ri-close-line {
+	visibility: hidden;
+}
+.menu-bar ul lu ri-close-line:hover {
+	visibility: show;
+}
 .h1 {
 	width: 40vw;
 	display: flex;
@@ -246,6 +257,15 @@ body {
 		display: flex;
 		width: 90vw;
 	}
+	#content-box .content-box::-webkit-scrollbar{
+	visibility: none;
+        }
+#content-box .content-box::-webkit-scrollbar-track{
+	visibility: none;
+}
+#content-box .content-box::-webkit-scrollbar-thumb{
+	visibility: none;
+}
 }
 
 /* content div's down */
