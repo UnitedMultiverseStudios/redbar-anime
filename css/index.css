@@ -18,9 +18,11 @@ body {
 }
 .menu-bar ul lu .ri-menu-line:hover {
 	visibility: hidden;
+	display: none;
 }
 .menu-bar ul li ri-close-line {
 	visibility: hidden;
+	display: none;
 }
 .menu-bar ul lu ri-close-line:hover {
 	visibility: visible;
