@@ -18,9 +18,9 @@ a {
 }
 @media (max-width: 768px) {
 	span {
-        padding: 3vw;
+        padding: 2vw;
 	margin: 12px;
 	border-radius: 5px;
-	font-size: 3em;
+	font-size: 1.5em;
 	}
 }
