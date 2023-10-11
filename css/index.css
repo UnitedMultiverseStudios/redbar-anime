@@ -15,6 +15,7 @@ body {
 /* menu bar */
 .menu-bar ul li .ri-menu-line {
 	visibility: visible;
+	display: flex;
 }
 .menu-bar ul lu .ri-menu-line:hover {
 	visibility: hidden;
@@ -26,6 +27,7 @@ body {
 }
 .menu-bar ul lu ri-close-line:hover {
 	visibility: visible;
+	display: flex;
 }
 .h1 {
 	width: 40vw;
@@ -257,7 +259,7 @@ body {
 		visibility: hidden;
 	}
 	.content-box {
-		overflow: scroll;
+		overflow: -webkit-scrollbar:none; /* testing*/
 		display: flex;
 		width: 90vw;
 	}
