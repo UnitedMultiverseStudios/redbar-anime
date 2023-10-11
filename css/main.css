@@ -9,9 +9,10 @@ body {
 span {
 	background: linear-gradient(110deg, orange 40%, gold);
 	color: white;
-	padding: 8px;
-	margin: 5px;
+	padding: 15px;
+	margin: 12pxpx;
 	border-radius: 5px;
+	font-size: 5em;
 }
 a {
 	text-decoration: none;
