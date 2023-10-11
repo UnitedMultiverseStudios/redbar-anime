@@ -13,22 +13,22 @@ body {
 	
 }
 /* menu bar */
-.menu-bar ul li .ri-menu-line {
+li .ri-menu-line {
 	visibility: visible;
 	display: flex;
 }
-.menu-bar ul lu .ri-menu-line:hover {
+li .ri-menu-line:hover{
 	visibility: hidden;
-	display: none;
 }
-.menu-bar ul li ri-close-line {
-	visibility: hidden;
-	display: none;
-}
-.menu-bar ul lu ri-close-line:hover {
+li .ri-close-line:hover {
 	visibility: visible;
-	display: flex;
+        display: flex;
 }
+li .ri-close-line{
+	visibility: hidden;
+	display: none;
+}
+/* end */
 .h1 {
 	width: 40vw;
 	display: flex;
