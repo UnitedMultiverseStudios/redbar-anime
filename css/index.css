@@ -272,15 +272,6 @@ body {
 #content-box .content-box::-webkit-scrollbar-thumb{
 	visibility: none;
 }
-#content-box .content-box::-webkit-scrollbar-thumb{
-	display: none;
-}
-#content-box .content-box::-webkit-scrollbar-track{
-	display: none;
-}
-#content-box .content-box::-webkit-scrollbar{
-	display: none;
-}
 }
 
 /* content div's down */
