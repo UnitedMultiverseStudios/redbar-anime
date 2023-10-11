@@ -15,18 +15,15 @@ body {
 /* menu bar */
 li .ri-menu-line {
 	visibility: visible;
-	display: flex;
 }
 li .ri-menu-line:hover{
 	visibility: hidden;
 }
 li .ri-close-line:hover {
 	visibility: visible;
-        display: flex;
 }
 li .ri-close-line{
 	visibility: hidden;
-	display: none;
 }
 /* end */
 .h1 {
