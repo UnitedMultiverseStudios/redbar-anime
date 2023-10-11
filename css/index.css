@@ -12,20 +12,6 @@ body {
 	background: lightblue;
 	
 }
-/* menu bar */
-li .ri-menu-line {
-	visibility: visible;
-}
-li .ri-menu-line:hover{
-	visibility: hidden;
-}
-li .ri-close-line:hover {
-	visibility: visible;
-}
-li .ri-close-line{
-	visibility: hidden;
-}
-/* end */
 .h1 {
 	width: 40vw;
 	display: flex;
@@ -49,6 +35,7 @@ body {
 .menu-bar {
 	background: #0B1D36;
 	text-align: center;
+	display: inline-flex;
 	
 }
 .menu-bar ul {
