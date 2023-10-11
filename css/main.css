@@ -9,17 +9,18 @@ body {
 span {
 	background: linear-gradient(110deg, orange 40%, gold);
 	color: white;
-	padding: 15px;
-	margin: 12pxpx;
+	padding: 25px;
+	margin: 15px;
 	border-radius: 5px;
+	font-size:  35px;
 }
 a {
 	text-decoration: none;
 }
 @media (max-width: 768px) {
 	span {
-        padding: 10px;
-	margin: 12px;
+        padding: 25px;
+	margin: 15px;
 	border-radius: 5px;
 	font-size:  35px;
 	}
